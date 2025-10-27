@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/recipeIdeas/static/css/main.0e1d5661.css",
-    "main.js": "/recipeIdeas/static/js/main.028c6db4.js",
-    "static/js/453.1cc31cd6.chunk.js": "/recipeIdeas/static/js/453.1cc31cd6.chunk.js",
-    "index.html": "/recipeIdeas/index.html",
-    "main.0e1d5661.css.map": "/recipeIdeas/static/css/main.0e1d5661.css.map",
-    "main.028c6db4.js.map": "/recipeIdeas/static/js/main.028c6db4.js.map",
-    "453.1cc31cd6.chunk.js.map": "/recipeIdeas/static/js/453.1cc31cd6.chunk.js.map"
+    "main.css": "/recpieIdeas/static/css/main.0e1d5661.css",
+    "main.js": "/recpieIdeas/static/js/main.9d34029d.js",
+    "static/js/453.1cc31cd6.chunk.js": "/recpieIdeas/static/js/453.1cc31cd6.chunk.js",
+    "index.html": "/recpieIdeas/index.html",
+    "main.0e1d5661.css.map": "/recpieIdeas/static/css/main.0e1d5661.css.map",
+    "main.9d34029d.js.map": "/recpieIdeas/static/js/main.9d34029d.js.map",
+    "453.1cc31cd6.chunk.js.map": "/recpieIdeas/static/js/453.1cc31cd6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e1d5661.css",
-    "static/js/main.028c6db4.js"
+    "static/js/main.9d34029d.js"
   ]
 }
