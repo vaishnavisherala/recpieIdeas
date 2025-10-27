@@ -1,7 +1,7 @@
 {
   "name": "recipefind",
   "version": "0.1.0",
-  "homepage": "https://vaishnavisherala.github.io/recipeIdeas",
+  "homepage": "https://vaishnavisherala.github.io/recpieIdeas",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
