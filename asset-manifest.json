@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/recpieIdeas/static/css/main.0e1d5661.css",
-    "main.js": "/recpieIdeas/static/js/main.9d34029d.js",
+    "main.css": "/recpieIdeas/static/css/main.e4c774a5.css",
+    "main.js": "/recpieIdeas/static/js/main.262cddb7.js",
     "static/js/453.1cc31cd6.chunk.js": "/recpieIdeas/static/js/453.1cc31cd6.chunk.js",
     "index.html": "/recpieIdeas/index.html",
-    "main.0e1d5661.css.map": "/recpieIdeas/static/css/main.0e1d5661.css.map",
-    "main.9d34029d.js.map": "/recpieIdeas/static/js/main.9d34029d.js.map",
+    "main.e4c774a5.css.map": "/recpieIdeas/static/css/main.e4c774a5.css.map",
+    "main.262cddb7.js.map": "/recpieIdeas/static/js/main.262cddb7.js.map",
     "453.1cc31cd6.chunk.js.map": "/recpieIdeas/static/js/453.1cc31cd6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e1d5661.css",
-    "static/js/main.9d34029d.js"
+    "static/css/main.e4c774a5.css",
+    "static/js/main.262cddb7.js"
   ]
 }
